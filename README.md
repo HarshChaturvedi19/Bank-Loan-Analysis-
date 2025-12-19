@@ -52,7 +52,7 @@ The solution is built using a complete analytics pipeline involving Python, SQL,
 
 ## 🖼️ Dashboard Screenshots
 
-![Summary View](Screenshot%202025-12-19%20143510.png)
+![Summary View](Dashboard.png)
 
 
 
